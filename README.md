@@ -1,4 +1,5 @@
 ## Plasma Lipoprotein Lipase is associated with Risk for Future Major Adverse Cardiovascular Events in Patients Following Carotid Endarterectomy
+[![DOI](https://zenodo.org/badge/531882977.svg)](https://zenodo.org/badge/latestdoi/531882977)
 
 <!-- Please add a brief introduction to explain what the project is about    -->
 Joost Mekke<sup>1</sup>, Maarten C. Verwer<sup>1</sup>, Erik S.G. Stroes<sup>2</sup>, Jeffrey Kroon<sup>2</sup>, Leo Timmers<sup>3</sup>, Gerard Pasterkamp<sup>4</sup>, Gert Jan de Borst<sup>1</sup>, Sander W. van der Laan<sup>4</sup>, Dominique P.V. de Kleijn<sup>1,5</sup>.
