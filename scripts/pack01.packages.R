@@ -8,6 +8,8 @@ library("credentials")
 credentials::set_github_pat()
 
 install.packages.auto("R.utils")
+install.packages.auto("openxlsx")
+install.packages.auto("pander")
 
 install.packages.auto("readr")
 install.packages.auto("optparse")

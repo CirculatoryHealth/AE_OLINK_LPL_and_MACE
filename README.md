@@ -68,7 +68,7 @@ Using our work? Please cite our work:
 
     Plasma Lipoprotein Lipase is associated with Risk for Future Major Adverse Cardiovascular Events in Patients Following Carotid Endarterectomy
     Joost Mekke, Maarten C. Verwer, Erik S.G. Stroes, Jeffrey Kroon, Leo Timmers, Gerard Pasterkamp, Gert Jan de Borst, Sander W. van der Laan, Dominique P.V. de Kleijn.
-    medRxiv 2022.05.02.22273844; doi: https://doi.org/10.1101/2022.05.02.22273844
+<!--    medRxiv 2022.05.02.22273844; doi: https://doi.org/10.1101/2022.05.02.22273844 -->
 
 
 ### Data availability
@@ -85,7 +85,7 @@ Dr. Sander W. van der Laan has received Roche funding for unrelated work.
 
 Plaque samples are derived from arterial endarterectomies as part of the [Athero-Express Biobank Study](https://doi.org/10.1007/s10564-004-2304-6) which is an ongoing study in the UMC Utrecht. We would like to thank all the (former) employees involved in the Athero-Express Biobank Study of the Departments of Surgery of the St. Antonius Hospital Nieuwegein and University Medical Center Utrecht for their continuing work. In particular we would like to thank (in no particular order) Marijke Linschoten, Arjan Samani, Petra H. Homoed-van der Kraak, Tim Bezemer, Tim van de Kerkhof, Joyce Vrijenhoek, Evelyn Velema, Ben van Middelaar, Sander Reukema, Robin Reijers, Joëlle van Bennekom, and Bas Nelissen. Lastly, we would like to thank all participants of the Athero-Express Biobank Study; without you these studies would not be possible.
 
-<center><a href='https://www.era-cvd.eu'><img src="images/ERA_CVD_Logo_CMYK.png" align="center" height="75"/></a> <a href='https://www.to-aition.eu'><img src="images/to_aition.png" align="center" height="75"/></a> <a href='https://www.plaqomics.com'><img src="images/leducq-logo-large.png" align="center" height="75"/></a> <a href='https://www.fondationleducq.org'><img src="images/leducq-logo-small.png" align="center" height="75"/></a> <a href='https://osf.io/zcvbs/'><img src="images/worcs_icon.png" align="center" height="75"/></a> <a href='https://www.atheroexpress.nl'><img src="images/AE_Genomics_2010.png" align="center" height="100"/></a></center>
+<center><a href='https://www.era-cvd.eu'><img src="images/ERA_CVD_Logo_CMYK.png" align="center" height="75"/></a> <a href='https://www.to-aition.eu'><img src="images/to_aition.png" align="center" height="75"/></a> <a href='https://www.plaqomics.com'><img src="images/leducq-logo-large.png" align="center" height="75"/></a> <a href='https://www.fondationleducq.org'><img src="images/leducq-logo-small.png" align="center" height="75"/></a> <a href='https://osf.io/zcvbs/'><img src="images/worcs_icon.png" align="center" height="75"/></a> <a href='https://doi.org/10.1007/s10564-004-2304-6'><img src="images/AE_Genomics_2010.png" align="center" height="100"/></a></center>
 
 #### Changes log
 
@@ -100,12 +100,18 @@ Plaque samples are derived from arterial endarterectomies as part of the [Athero
 #### Creative Commons BY-NC-ND 4.0
 
 ##### Copyright (c) 2022. [Joost M. Mekke](https://github.com/jmekke) \| [Sander W. van der Laan](https://github.com/swvanderlaan).
-<sup>This is a human-readable summary of (and not a substitute for) the [license](LICENSE). You are free to: Share, copy and redistribute the material in any medium or format. The licencor cannot revoke these freedoms as long as you follow the license terms.</sup>
 
-<sup>Under the following terms:</br></sup>
-<sup>-   Attribution --- You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</br></sup>
-<sup>-   NonCommercial --- You may not use the material for commercial purposes.</br></sup>
-<sup>-   NoDerivatives --- If you remix, transform, or build upon the material, you may not distribute the modified material.</br></sup>
-<sup>-   No additional restrictions --- You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</sup>
+<sup>This is a human-readable summary of (and not a substitute for) the [license](LICENSE). </sup>
+</br>
+<sup>You are free to share, copy and redistribute the material in any medium or format. The licencor cannot revoke these freedoms as long as you follow the license terms.</br></sup>
+</br>
+<sup>Under the following terms: </br></sup>
+<sup><em>- Attribution</em> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</br></sup>
+<sup><em>- NonCommercial</em> — You may not use the material for commercial purposes.</br></sup>
+<sup><em>- NoDerivatives</em> — If you remix, transform, or build upon the material, you may not distribute the modified material.</br></sup>
+<sup><em>- No additional</em> restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</br></sup>
+</br></sup>
+<sup>Notices: </br></sup>
+<sup>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</sup>
 
-<sup>Notices: You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</sup>
